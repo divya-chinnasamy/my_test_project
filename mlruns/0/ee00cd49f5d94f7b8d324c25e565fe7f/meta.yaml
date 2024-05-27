@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ee00cd49f5d94f7b8d324c25e565fe7f/artifacts
+deleted_time: 1716790420339
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ee00cd49f5d94f7b8d324c25e565fe7f
+run_name: monumental-snake-887
+run_uuid: ee00cd49f5d94f7b8d324c25e565fe7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716742619427
+status: 1
+tags: []
+user_id: Divyaprabha

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c63f491d690d4d949270d5dedbde0610/artifacts
+deleted_time: 1716790410267
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c63f491d690d4d949270d5dedbde0610
+run_name: mercurial-slug-599
+run_uuid: c63f491d690d4d949270d5dedbde0610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716743312669
+status: 1
+tags: []
+user_id: Divyaprabha

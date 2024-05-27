@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/df5bcfa95cc34971814d26733e6d6fdb/artifacts
+end_time: 1716742476570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df5bcfa95cc34971814d26733e6d6fdb
+run_name: intrigued-quail-353
+run_uuid: df5bcfa95cc34971814d26733e6d6fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716742443985
+status: 4
+tags: []
+user_id: Divyaprabha

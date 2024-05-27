@@ -1,0 +1,11 @@
+name: my_test_project
+
+conda_env: files/config/conda.yaml
+
+entry_points:
+    main:
+        parameters:
+            file_path: {default: conf_reg.json}
+        command: "python linear_regression.py {file_path}"
+
+

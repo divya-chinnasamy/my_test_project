@@ -1,0 +1,18 @@
+{   
+    "lr_regression":{
+        "Topic" : "Supervised Machine Learning",
+		"sub_topic":"Regression",
+        "Algorithm" : "Linear Regression",
+        "IV":["enginetype","fueltype","aspiration","carbody","cylindernumber"],
+        "DV":["price"],
+        "prediction_input":["5","1","0","2","3","2","94.5","2345","12"],
+        "input_file":"regression_test.csv",
+        "output_path":"D:/Divya/Projects/MLOPS/MLFLOW/mlflow_projects/model/",
+        "model_name":"lr_reg_model",
+        "model_generation":"Yes",
+        "fit_intercept":"False",
+        "copy_X":"False",
+        "n_jobs":"None",
+        "positive":"False"
+    }
+}

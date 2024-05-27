@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3c2e656fca1b4815b6d30d77cd994a3b/artifacts
+deleted_time: 1716790410273
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3c2e656fca1b4815b6d30d77cd994a3b
+run_name: rare-crane-512
+run_uuid: 3c2e656fca1b4815b6d30d77cd994a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716743295079
+status: 1
+tags: []
+user_id: Divyaprabha

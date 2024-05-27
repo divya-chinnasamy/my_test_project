@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4d12497453bc45d8b373cc124f7f36a5/artifacts
+deleted_time: 1716790410332
+end_time: 1716742842258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4d12497453bc45d8b373cc124f7f36a5
+run_name: sedate-steed-34
+run_uuid: 4d12497453bc45d8b373cc124f7f36a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716742837901
+status: 4
+tags: []
+user_id: Divyaprabha

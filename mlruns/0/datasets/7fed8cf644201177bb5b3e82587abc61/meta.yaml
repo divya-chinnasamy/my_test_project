@@ -1,0 +1,17 @@
+digest: bd8eaf0d
+name: regression_test
+profile: '{"num_rows": 205, "num_elements": 3485}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "price", "required": true},
+  {"type": "long", "name": "enginetype", "required": true}, {"type": "long", "name":
+  "fueltype", "required": true}, {"type": "long", "name": "aspiration", "required":
+  true}, {"type": "long", "name": "carbody", "required": true}, {"type": "long", "name":
+  "cylindernumber", "required": true}, {"type": "long", "name": "drivewheel", "required":
+  true}, {"type": "double", "name": "wheelbase", "required": true}, {"type": "long",
+  "name": "curbweight", "required": true}, {"type": "long", "name": "enginesize",
+  "required": true}, {"type": "double", "name": "boreratio", "required": true}, {"type":
+  "long", "name": "horsepower", "required": true}, {"type": "long", "name": "citympg",
+  "required": true}, {"type": "long", "name": "highwaympg", "required": true}, {"type":
+  "double", "name": "carlength", "required": true}, {"type": "double", "name": "carwidth",
+  "required": true}, {"type": "long", "name": "priceCatagory", "required": true}]}'
+source: '{"uri": "regression_test.csv"}'
+source_type: local

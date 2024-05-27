@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/32541d22e4034fe199eed9e5ae6bc5d0/artifacts
+end_time: 1716743377038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32541d22e4034fe199eed9e5ae6bc5d0
+run_name: indecisive-seal-714
+run_uuid: 32541d22e4034fe199eed9e5ae6bc5d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716743354717
+status: 3
+tags: []
+user_id: Divyaprabha

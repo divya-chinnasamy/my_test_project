@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c7ca86dbc3be4dcd80683444d9da6235/artifacts
+deleted_time: 1716790410300
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c7ca86dbc3be4dcd80683444d9da6235
+run_name: carefree-goose-148
+run_uuid: c7ca86dbc3be4dcd80683444d9da6235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716742999986
+status: 1
+tags: []
+user_id: Divyaprabha

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/275532e049414a909d4a1dd94d08cb5b/artifacts
+deleted_time: 1716790420341
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 275532e049414a909d4a1dd94d08cb5b
+run_name: debonair-gull-911
+run_uuid: 275532e049414a909d4a1dd94d08cb5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716742732387
+status: 1
+tags: []
+user_id: Divyaprabha

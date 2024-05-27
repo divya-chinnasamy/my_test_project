@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c8328ed9d70f475c821401cf968378c0/artifacts
+end_time: 1716297250485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8328ed9d70f475c821401cf968378c0
+run_name: thundering-shoat-27
+run_uuid: c8328ed9d70f475c821401cf968378c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716297234503
+status: 3
+tags: []
+user_id: Divyaprabha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/88173ab02e744ef59a1bbf35b98d0ae4/artifacts
+end_time: 1716371247945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88173ab02e744ef59a1bbf35b98d0ae4
+run_name: debonair-elk-199
+run_uuid: 88173ab02e744ef59a1bbf35b98d0ae4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716371231228
+status: 3
+tags: []
+user_id: Divyaprabha

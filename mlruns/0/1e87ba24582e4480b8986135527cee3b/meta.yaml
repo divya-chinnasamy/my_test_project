@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/1e87ba24582e4480b8986135527cee3b/artifacts
+deleted_time: 1716790410306
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1e87ba24582e4480b8986135527cee3b
+run_name: glamorous-hawk-321
+run_uuid: 1e87ba24582e4480b8986135527cee3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716743200549
+status: 1
+tags: []
+user_id: Divyaprabha

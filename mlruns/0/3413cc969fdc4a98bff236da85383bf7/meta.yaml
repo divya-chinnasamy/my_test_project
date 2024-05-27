@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3413cc969fdc4a98bff236da85383bf7/artifacts
+deleted_time: 1716790410266
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3413cc969fdc4a98bff236da85383bf7
+run_name: nimble-quail-244
+run_uuid: 3413cc969fdc4a98bff236da85383bf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716743335037
+status: 1
+tags: []
+user_id: Divyaprabha
